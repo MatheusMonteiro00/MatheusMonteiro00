@@ -17,3 +17,4 @@
 - Linux
 - Git
 - HTML/CSS
+- JavaScript
